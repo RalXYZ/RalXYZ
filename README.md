@@ -12,6 +12,6 @@
 ### Learning 💻  
 
 [![C](https://img.shields.io/badge/-28253a?style=flat&logo=c&logoColor=lightgrey)](https://github.com/topics/c)  
-[![C++](https://img.shields.io/badge/-C++-28253a?style=flat&?logo=C++)](https://github.com/RalXYZ) [![Python](https://img.shields.io/badge/-Python-28253a?style=flat&logo=python)](https://github.com/RalXYZ)  
-[![MATLAB](https://img.shields.io/badge/-MATLAB-28253a?style=flat&logo=matlab)](https://github.com/RalXYZ) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-28253a?style=flat&logo=tensorflow)](https://github.com/RalXYZ)   
-[![HTML5](https://img.shields.io/badge/-HTML5-28253a?style=flat&logo=html5&logoColor=e34f26)](https://github.com/RalXYZ) [![CSS3](https://img.shields.io/badge/-CSS3-28253a?style=flat&logo=css3&logoColor=1572b6)](https://github.com/RalXYZ) [![JavaScript](https://img.shields.io/badge/-JavaScript-28253a?style=flat&logo=javascript)](https://github.com/RalXYZ)  
+[![C++](https://img.shields.io/badge/-C++-28253a?style=flat&?logo=C++)](https://github.com/topics/cpp) [![Python](https://img.shields.io/badge/-Python-28253a?style=flat&logo=python)](https://github.com/topics/python)  
+[![MATLAB](https://img.shields.io/badge/-MATLAB-28253a?style=flat&logo=matlab)](https://github.com/topics/matlab) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-28253a?style=flat&logo=tensorflow)](https://github.com/topics/tensorflow)   
+[![HTML](https://img.shields.io/badge/-HTML-28253a?style=flat&logo=html5&logoColor=e34f26)](https://github.com/topics/html) [![CSS](https://img.shields.io/badge/-CSS-28253a?style=flat&logo=css3&logoColor=1572b6)](https://github.com/css) [![JavaScript](https://img.shields.io/badge/-JavaScript-28253a?style=flat&logo=javascript)](https://github.com/javascript)  
