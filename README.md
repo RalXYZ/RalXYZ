@@ -8,7 +8,7 @@
 ![RalXYZ's github stats](https://github-readme-stats.vercel.app/api/?username=RalXYZ&show_icons=true&title_color=c3174f&icon_color=c3174f&text_color=ffffff&bg_color=28253a)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RalXYZ&layout=compact&hide=html,css&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RalXYZ&layout=compact&hide=html,css&langs_count=8&theme=dark)
 
 
 
