@@ -10,7 +10,7 @@
 ![go](https://img.shields.io/badge/-go-00add8?logo=go&logoColor=fff) 
 ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff) 
 ![CMake](https://img.shields.io/badge/-CMake-064f8c?logo=cmake&logoColor=fff)  
-![Firefox](https://img.shields.io/badge/-Firefox-ff7139?logo=firefox-browser&logoColor=fff) 
+![Firefox](https://img.shields.io/badge/-Firefox-ff7139?logo=firefox&logoColor=fff) 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-e95420?logo=ubuntu&logoColor=fff) 
 ![Android](https://img.shields.io/badge/-Android-3ddc84?logo=android&logoColor=fff) 
 ![LLVM](https://img.shields.io/badge/-LLVM-262d3a?logo=llvm&logoColor=fff) 
@@ -31,7 +31,8 @@
 ![Instagram](https://img.shields.io/badge/-Instagram-e4405f?logo=instagram&logoColor=fff) 
 ![Mattermost](https://img.shields.io/badge/-Mattermost-0058cc?logo=mattermost&logoColor=fff)  
 ![Minecraft](https://img.shields.io/badge/-Minecraft-009445?logo=minecraft&logoColor=fff) 
-![DC Comics](https://img.shields.io/badge/-DC%20comics-0078f0?logo=dc-entertainment&logoColor=fff)  
+![DC Comics](https://img.shields.io/badge/-DC%20comics-0078f0?logo=dc-entertainment&logoColor=fff) 
+![HBO](https://img.shields.io/badge/-HBO-000?logo=hbo&logoColor=fff)  
 
 
 **Learning**  
@@ -41,6 +42,6 @@
 ![Rust](https://img.shields.io/badge/-Rust-331900?logo=rust&logoColor=fff)  
 ![Maven](https://img.shields.io/badge/-Maven-c71a36?logo=apache-maven&logoColor=fff) 
 ![Flink](https://img.shields.io/badge/-Flink-e6526f?logo=apache-flink&logoColor=fff) 
-![Qt](https://img.shields.io/badge/-Qt-41cd52?logo=qt&logoColor=fff)  
+![Django](https://img.shields.io/badge/-Django-092e20?logo=django&logoColor=fff)  
 ![Prometheus](https://img.shields.io/badge/-Prometheus-e6522c?logo=prometheus&logoColor=fff) 
 ![Grafana](https://img.shields.io/badge/-Grafana-f46800?logo=grafana&logoColor=fff) 
