@@ -1,4 +1,4 @@
-<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=RalXYZ&layout=compact&hide=html,css&langs_count=10&theme=tokyonight' width='350px'>  
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=RalXYZ&layout=compact&hide=html,css,scss,python,javascript&langs_count=10&theme=tokyonight' width='350px'>  
 
 ### Hello world 🌏
 👨‍🎓 Student in [software engineering](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english)  
