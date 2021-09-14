@@ -28,5 +28,5 @@
 ![x86 asm](https://img.shields.io/badge/-x86%20asm-0071C5?logo=intel&logoColor=fff)
 
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RalXYZ&theme=tokyonight&hide_border=true&layout=compact)  
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RalXYZ&theme=tokyonight&hide_border=true&layout=compact&custom_title=Coding%20Time%20This%20Week)  
 ![Activity](https://github-readme-stats.vercel.app/api?username=RalXYZ&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)  
