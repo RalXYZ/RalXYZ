@@ -1,7 +1,8 @@
 ### Hello world 🌏
-👨‍🎓 Student in [software engineering](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english)  
-❤️ Love computer science and technology  
-🛠 My [open source project list](projects.md)
+👨‍🎓 Undergraduate student in [software engineering](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english)  
+❤️ Love computer technology and science  
+👨‍💻 Currently a counselor in tech *dept.* of [ZJU QSC](https://www.qsc.zju.edu.cn/), working on Kubernetes cluster operation and back-end app development  
+🛠 My [open source project list](projects.md)  
 
 ![Brave](https://img.shields.io/badge/-Brave-fb542b?logo=brave&logoColor=fff) 
 ![C](https://img.shields.io/badge/-C-a8b9cc?logo=c&logoColor=fff) 
