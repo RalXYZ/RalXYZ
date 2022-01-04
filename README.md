@@ -2,7 +2,7 @@
 👨‍🎓 Undergraduate student in [software engineering](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english)  
 ❤️ Love computer technology and science  
 👨‍💻 Counselor in tech *dept.* of [ZJU QSC](https://www.qsc.zju.edu.cn/), working on Kubernetes cluster operation and web app development  
-🌐 Member of [ZJU SCT](https://www.zjusct.io/), developing and maintaining ZJU open source mirror site  
+🌐 Member of [ZJU SCT](https://www.zjusct.io/), developing and maintaining [ZJU open source mirror site](https://mirrors.zju.edu.cn)  
 🛠 My [open source project list](projects.md)  
 
 ![Brave](https://img.shields.io/badge/-Brave-fb542b?logo=brave&logoColor=fff) 
