@@ -38,5 +38,5 @@
 ![yarn](https://img.shields.io/badge/-yarn-2C8EBB?logo=yarn&logoColor=fff) 
 
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RalXYZ&theme=tokyonight&hide_border=true&layout=compact&custom_title=Coding%20Time%20%Over%20the%20Last%207%20Days)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RalXYZ&card_width=444&langs_count=10&theme=tokyonight&hide_border=true&layout=compact&hide=html)  
 ![Activity](https://github-readme-stats.vercel.app/api?username=RalXYZ&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)  
