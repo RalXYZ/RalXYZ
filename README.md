@@ -12,7 +12,7 @@
 ![Conda](https://img.shields.io/badge/-Conda-44a833?logo=anaconda&logoColor=fff) 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff) 
 ![docker](https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=fff) 
-![Flink](https://img.shields.io/badge/-Flink-E6526F?logo=flink&logoColor=fff) 
+![Flink](https://img.shields.io/badge/-Flink-E6526F?logo=apache%20flink&logoColor=fff) 
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=fff) 
 ![git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=fff) 
 ![go](https://img.shields.io/badge/-go-00add8?logo=go&logoColor=fff) 
