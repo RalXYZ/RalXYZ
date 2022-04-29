@@ -1,8 +1,9 @@
 ### Hello world 🌏
 👨‍🎓 Undergraduate student in [software engineering](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english)  
 ❤️ Love computer technology and science  
-👨‍💻 Member in tech *dept.* of [ZJU QSC](https://www.qsc.zju.edu.cn/), working on Kubernetes cluster operation and web app development  
-🌐 Member of [ZJU SCT](https://www.zjusct.io/), developing and maintaining [ZJU open source mirror site](https://mirrors.zju.edu.cn)  
+🐿️ Stream computing R&D intern [@ByteDance](https://github.com/bytedance), maintaining Flink runtime & service  
+🌊 Member [@QSCTech](https://github.com/QSCTech), maintaining web apps  
+🧮 Member [@ZJUSCT](https://github.com/ZJUSCT), maintaining [ZJU open source mirror site](https://mirrors.zju.edu.cn)  
 🛠 My [open source project list](projects.md)  
 
 ![Brave](https://img.shields.io/badge/-Brave-fb542b?logo=brave&logoColor=fff) 
@@ -36,7 +37,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=fff) 
 ![x86 asm](https://img.shields.io/badge/-x86%20asm-0071C5?logo=intel&logoColor=fff) 
 ![yarn](https://img.shields.io/badge/-yarn-2C8EBB?logo=yarn&logoColor=fff) 
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RalXYZ&card_width=444&langs_count=10&theme=tokyonight&hide_border=true&layout=compact&hide=html)  
 ![Activity](https://github-readme-stats.vercel.app/api?username=RalXYZ&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)  
