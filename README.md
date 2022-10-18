@@ -1,7 +1,7 @@
 ### Hello world 🌏
 👨‍🎓 Undergraduate student in [software engineering](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english)  
 ❤️ Love computer technology and science  
-🐿️ Stream computing R&D intern [@ByteDance](https://github.com/bytedance), maintaining Flink runtime & service  
+🐿️ Former Stream computing R&D intern [@ByteDance](https://github.com/bytedance), maintaining Flink runtime & service  
 🌊 Member [@QSCTech](https://github.com/QSCTech), maintaining web apps  
 🧮 Member [@ZJUSCT](https://github.com/ZJUSCT), maintaining [ZJU open source mirror site](https://mirrors.zju.edu.cn)  
 🛠 My [open source project list](projects.md)  
