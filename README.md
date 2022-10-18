@@ -17,7 +17,7 @@
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=fff) 
 ![git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=fff) 
 ![go](https://img.shields.io/badge/-go-00add8?logo=go&logoColor=fff) 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff) 
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=fff) 
 ![Jetbrains IDE](https://img.shields.io/badge/-Jetbrains%20IDE-e62952?logo=jetbrains&logoColor=fff) 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=fff) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000) 
