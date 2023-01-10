@@ -38,5 +38,9 @@
 ![x86 asm](https://img.shields.io/badge/-x86%20asm-0071C5?logo=intel&logoColor=fff) 
 ![yarn](https://img.shields.io/badge/-yarn-2C8EBB?logo=yarn&logoColor=fff) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RalXYZ&card_width=444&langs_count=10&theme=tokyonight&hide_border=true&layout=compact&hide=html)  
-![Activity](https://github-readme-stats.vercel.app/api?username=RalXYZ&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)  
+###  Facts about me 🙋‍♂️  
+💻 I use ![Kubuntu](https://img.shields.io/badge/-Kubuntu-0079C1?logo=kubuntu&logoColor=fff) at work. I'm trying to switch to an operating system that doesn't sell my data, for example, ![Gentoo](https://img.shields.io/badge/-Gentoo-54487A?logo=Gentoo&logoColor=fff).  
+🏠 I have deployed ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?logo=Home%20Assistant&logoColor=fff) and ![Node-RED](https://img.shields.io/badge/-Node%20RED-8F0000?logo=Node-RED&logoColor=fff) in my home. This is one of the best practices to make smart IoT devices from different ecosystems interoperable, and to build highly customized home automation.  
+💙 I enjoy trying out new technologies like ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=fff) and ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=fff), but also very skeptical to them.  
+📸 I love photography but don't have a professional camera. Thanks to the algorithms of the camera app and ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-31A8FF?logo=adobelightroom&logoColor=fff), I'm barely satisfied with the photos I get from my mobile phone.  
+🧘‍♂️ Although I have coded many websites using modern tool chains like Bable and Webpack, [my blog](https://blog.ralxyz.xyz) is built only with bare HTML and CSS. Abandoning the "glitz and glamour" makes me feel peaceful.  
