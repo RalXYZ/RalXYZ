@@ -44,3 +44,6 @@
 💙 I enjoy trying out new technologies like ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=fff) and ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=fff), but also very skeptical to them.  
 📸 I love photography but don't have a professional camera. Thanks to the algorithms of the camera app and ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-31A8FF?logo=adobelightroom&logoColor=fff), I'm barely satisfied with the photos I get from my mobile phone.  
 🧘‍♂️ Although I have coded many websites using modern tool chains like Bable and Webpack, [my blog](https://blog.ralxyz.xyz) is built only with bare HTML and CSS. Abandoning the "glitz and glamour" makes me feel peaceful.  
+
+[![The sunlight shines on the wall, and under the wall are green grass and wildflowers. A boy sits leaning against the wall, lost in thought.](https://github.com/RalXYZ/repo-pictures/blob/main/RalXYZ/IMG_2945.jpg)](https://ralxyz.xyz)  
+*Dream of the Sunset*, by [@TheSaint-LazareStation](https://github.com/TheSaint-LazareStation)
