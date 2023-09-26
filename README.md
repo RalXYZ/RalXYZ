@@ -1,5 +1,5 @@
 ### Hello world 🌏
-👨‍🎓 Undergraduate student in [software engineering](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english)  
+👨‍🎓 Graduate student at [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/), [Zhejiang University](http://www.zju.edu.cn/english)  
 ❤️ Love computer technology and science  
 🐿️ Former Stream computing R&D intern [@ByteDance](https://github.com/bytedance), maintained Flink runtime & service  
 🌊 Member [@QSCTech](https://github.com/QSCTech)  
@@ -45,7 +45,7 @@
 💻 I use ![Kubuntu](https://img.shields.io/badge/-Kubuntu-0079C1?logo=kubuntu&logoColor=fff) at work. I'm trying to switch to an operating system that doesn't sell my data, for example, ![Gentoo](https://img.shields.io/badge/-Gentoo-54487A?logo=Gentoo&logoColor=fff).  
 🏠 I have deployed ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?logo=Home%20Assistant&logoColor=fff) and ![Node-RED](https://img.shields.io/badge/-Node%20RED-8F0000?logo=Node-RED&logoColor=fff) in my home. This is one of the best practices to make smart IoT devices from different ecosystems interoperable, and to build highly customized home automation.  
 💙 I enjoy trying out new technologies like ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=fff) and ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=fff), but also very skeptical to them.  
-📸 I love photography but don't have a professional camera. Thanks to the algorithms of the camera app and ![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?logo=adobelightroom&logoColor=fff), I'm barely satisfied with the photos I get from my mobile phone.  
+📸 I love photography.  
 🧘‍♂️ Although I have coded many websites using modern tool chains like Bable and Webpack, [my blog](https://blog.ralxyz.xyz) is built only with bare HTML and CSS. Abandoning the "glitz and glamour" makes me feel peaceful.  
 
 [![The sunlight shines on the wall, and under the wall are green grass and wildflowers. A boy sits leaning against the wall, lost in thought.](https://github.com/RalXYZ/repo-pictures/blob/main/RalXYZ/IMG_2945.jpg)](https://ralxyz.xyz)  
