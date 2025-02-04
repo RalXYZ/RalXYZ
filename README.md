@@ -42,10 +42,9 @@
 ![yarn](https://img.shields.io/badge/-yarn-2C8EBB?logo=yarn&logoColor=fff) 
 
 ###  Facts about me 🙋‍♂️  
-💻 I use ![Kubuntu](https://img.shields.io/badge/-Kubuntu-0079C1?logo=kubuntu&logoColor=fff) at work. I'm trying to switch to an operating system that doesn't sell my data, for example, ![Gentoo](https://img.shields.io/badge/-Gentoo-54487A?logo=Gentoo&logoColor=fff).  
+💻 I use ![Kubuntu](https://img.shields.io/badge/-Kubuntu-0079C1?logo=kubuntu&logoColor=fff) at work.  
 🏠 I have deployed ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?logo=Home%20Assistant&logoColor=fff) and ![Node-RED](https://img.shields.io/badge/-Node%20RED-8F0000?logo=Node-RED&logoColor=fff) in my home. This is one of the best practices to make smart IoT devices from different ecosystems interoperable, and to build highly customized home automation.  
-💙 I enjoy trying out new technologies like ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=fff) and ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=fff), but also very skeptical to them.  
-📸 I love photography.  
+📸 I love photography. The photos I take will be uploaded to [my Unsplash profile](https://unsplash.com/@ralxyz), and all these images are made publicly available under [a license that closely aligns with CC0 principles](https://unsplash.com/license).  
 🧘‍♂️ Although I have coded many websites using modern tool chains like Bable and Webpack, [my blog](https://blog.ralxyz.xyz) is built only with bare HTML and CSS. Abandoning the "glitz and glamour" makes me feel peaceful.  
 
 [![The sunlight shines on the wall, and under the wall are green grass and wildflowers. A boy sits leaning against the wall, lost in thought.](https://github.com/RalXYZ/repo-pictures/blob/main/RalXYZ/IMG_2945.jpg)](https://ralxyz.xyz)  
