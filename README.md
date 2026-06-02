@@ -2,7 +2,7 @@
 👨‍🎓 Graduate student at [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/), [Zhejiang University](http://www.zju.edu.cn/english)  
 ❤️ Love computer technology and science  
 🐿️ Former Stream Computing R&D Intern [@ByteDance](https://github.com/bytedance), maintained Flink runtime & service  
-🐧 Cloud Native Database R&D Intern [@Tencent](https://github.com/tencent), maintaining the kernel of [TDSQL-C for MySQL](https://cloud.tencent.com/product/cynosdb), a distributed database  
+🐧 Database Developer [@Tencent](https://github.com/tencent), maintaining the kernel of [TDSQL-C for MySQL](https://cloud.tencent.com/product/cynosdb)  
 🌊 Member [@QSCTech](https://github.com/QSCTech)  
 🧮 Member [@ZJUSCT](https://github.com/ZJUSCT), maintaining [ZJU open source mirror site](https://mirrors.zju.edu.cn)  
 🛠 My [open source project list](projects.md)  
